@@ -26,8 +26,8 @@ Com os seguintes dados:
 
 ```
 {
-    "nome": "marcos de morais",
-    "email": "marcos@.com",
+    "nome": "Carlos Martins ",
+    "email": "Carlos@.com",
     "senha": "123456",
     "endereco": "Rua Vergueiro, 3185",
     "complemento": "Vila Mariana",
@@ -50,7 +50,7 @@ Com os seguintes dados:
 
 ```
 {
-  "email": "marcos@gmail.com",
+  "email": "carlos@gmail.com",
   "senha":"123456"
 }
 ```
