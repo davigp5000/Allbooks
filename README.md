@@ -26,7 +26,7 @@ Com os seguintes dados:
 
 ```
 {
-    "nome": "Carlos Martins ",
+    "nome": "Davi Martins ",
     "email": "Carlos@.com",
     "senha": "123456",
     "endereco": "Rua Vergueiro, 3185",
@@ -70,4 +70,3 @@ E então, adicionar este mesmo token ao header das próximas requisições:
 
 ```
 Authorization: Bearer <ACCESS_TOKEN>
-```
